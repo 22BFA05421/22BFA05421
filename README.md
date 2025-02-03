@@ -1,16 +1,37 @@
-## Hi there 👋
+## INPUT
 
-<!--
-**22BFA05421/22BFA05421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+1
+101
+John Doe
+85.5
+2
+3
 
-Here are some ideas to get you started:
+## OUTPUT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Student Information System
+1. Add Student
+2. Display Student
+3. Exit
+Enter your choice: 1
+Enter Roll Number: 101
+Enter Name: John Doe
+Enter Marks: 85.5
+
+Student Information System
+1. Add Student
+2. Display Student
+3. Exit
+Enter your choice: 2
+
+Student Information:
+Roll Number: 101
+Name: John Doe
+Marks: 85.50
+
+Student Information System
+1. Add Student
+2. Display Student
+3. Exit
+Enter your choice: 3
+Exiting...
